@@ -1,7 +1,6 @@
 # Waves Explorer
 
-Waves Blockchain Explorer is available on https://wavesexplorer.com
-
+MDMCOIN Blockchain Explorer is available on https://explorer.mdmcoin.net
 ## Setup
 
 Install [NodeJS](https://nodejs.org/en/download/)
