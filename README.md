@@ -21,11 +21,11 @@ yarn install
 yarn start
 ```
 
-Your browser will open local version of Waves Explorer automatically.
+Your browser will open local version of MDMCOIN Explorer automatically.
 
 ## Build
 
-Build process creates ./dist directory with Waves Explorer distribution that supports mainnet, testnet and a custom network. 
+Build process creates ./dist directory with MDMCOIN Explorer distribution that supports mainnet, testnet and a custom network. 
 To create the distribution, run from the project directory:
 ```
 gulp buildOfficialProd
