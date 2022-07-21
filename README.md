@@ -1,4 +1,4 @@
-# Waves Explorer
+# MDM Explorer
 
 MDMCOIN Blockchain Explorer is available on https://explorer.mdmcoin.net
 ## Setup
